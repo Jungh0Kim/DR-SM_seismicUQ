@@ -13,4 +13,7 @@ Included toolboxes:
 Notes:
  - Some functions in the Netlab toolbox have been modified to support the conditional distribution model used in DRSM.
  - This script implements stochastic simulator for predicting responses of the 3 story SAC building subjected to recorded ground motions.
- - To reproduce the results, run: main_DRSM_3SAC.m
+ 
+ How to Run:
+ - Download the dataset: https://www.dropbox.com/scl/fi/gimufs0r2yplz7d1rzg0i/Train_Test_dataset_seismic_3SAC.mat?rlkey=0fc8mma2h3aft76bqnfj0tzmm&st=77sfdpx5&dl=0
+ - Run main_DRSM_3SAC.m to reproduce the results
